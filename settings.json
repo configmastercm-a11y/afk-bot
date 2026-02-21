@@ -6,7 +6,7 @@
   },
 
   "server": {
-    "ip": "Senshi-mc.aternos.me",
+    "ip": "Senshi-mc.aternos.me:32144",
     "port":32144,
     "version": "1.18.2"
   },
