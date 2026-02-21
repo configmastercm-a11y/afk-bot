@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "NuttellaHUB",
+    "username": "afk-bot-senshi",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "seal.exaroton.host:56222",
+    "ip": "Senshi-mc.aternos.me:",
     "port":32144,
     "version": "1.18.2"
   },
